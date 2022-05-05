@@ -1,0 +1,6 @@
+print ("my name is arun \nmy age is 33")
+
+# \n ---> this is new line
+# \b --> back space (space will be removed)
+# \t --> tab space
+# \ --> escape symbol
