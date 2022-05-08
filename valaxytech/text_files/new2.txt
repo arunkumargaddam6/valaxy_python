@@ -1,6 +1,0 @@
-firstline
-secondline
-this is third line
-firstline
-secondline
-this is third line
